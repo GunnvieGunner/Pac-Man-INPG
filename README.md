@@ -25,7 +25,7 @@ W przypadku zaistnienia sporów, także na tym polu, sprawę ostatecznie rozstrz
 
   Po zadeklarowaniu własnej kwestii, proszę uzupełnić związaną z nią wikipedię oraz dodać do zakładki Issues. Zobowiązuję się do 
 codziennego monitorowania postępów wykonywanych prac. Jako że ostateczny deadline naszego projektu przypada za pięć tygodni, dlatego
-proszę, by do końca tego sprintu (10 maja 2019, 12:00), każdy zrealizował około 33% zadeklarowanego tematu. W zakładce Issues proszę 
+proszę, by do końca tego sprintu (10 maja 2019, 12:00), każdy zrealizował pewną część zadeklarowanego tematu, zgodnie z backlogiem sprintu. W zakładce Issues proszę 
 podać przewidywaną część wykonania zadania, do końca tego sprintu.
   Oczywiście o kwestiach związanych z pobraniem tego repozytorium na swój własny komputer nawet nie śmiałem przypominać, gdyż uważam
 to za oczywistość. Podobnie proszę o systematyczne zapoznawanie się z językiem programowania wybranym jako ten, w którym zostanie napisana
